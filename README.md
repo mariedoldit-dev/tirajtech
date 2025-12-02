@@ -32,4 +32,7 @@
 - [ ] L'utilisateur peut activer un bouton SOS qui envoie une alerte instantanée avec sa localisation a ses contacts d'urgence.
 - [ ] L’application peut générer des statistiques de sécurité (par ex. nombre d’incidents signalés par semaine).
 # Prototype Figma
-https://www.figma.com/design/QIIHno05FYXiUdsQciMtVJ/CV-CONNECT?node-id=59-51&t=QoK8XtIVlu3C8vzX-1
+https://www.figma.com/design/QIIHno05FYXiUdsQciMtVJ/CV-CONNECT?node-id=59-51&t=QoK8XtIVlu3C8vzX-1 
+<img src="Android Compact - 8.png" width=200>  <img src="Sign up.png" width=200>  <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200>
+<img src="menu sombre.png" width=200>
+
